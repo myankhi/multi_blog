@@ -8,16 +8,11 @@
 - Multiple Blog Categories
 - Responsive UI
 
-## Tech Stack
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+
 
 ## Installation
 
 ```bash
 git clone <https://github.com/myankhi/multi_blog.git>
 cd project-name
-npm install
-npm start
+uv run fastapi dev main.py

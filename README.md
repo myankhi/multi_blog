@@ -17,7 +17,7 @@
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/myankhi/multi_blog.git>
 cd project-name
 npm install
 npm start
